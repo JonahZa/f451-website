@@ -1,0 +1,2 @@
+
+.icon-imdb { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2d8;&nbsp;'); }
